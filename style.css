@@ -1,3 +1,9 @@
-body{
+.cabeçalho{
     background-color: FFFFFF;
+    display: flex;
+}
+    
+
+.cabeçalho-imagem{
+    width: 10%;
 }
