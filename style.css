@@ -5,7 +5,7 @@
 
 
 .cabeçalho{
-    background-color: FFFFFF;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,4 +23,9 @@
     display: inline-block;
     padding: 0 16px;
     font-size: 24px;
+}
+
+
+.imagem-de-planta-dois{
+    width: 30%;
 }
