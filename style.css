@@ -27,7 +27,9 @@
 
 
 .flora-imagem{
-    width: 15%;
+    width: 25%;
+    padding: 0 200px;
+    
 }
 
 
@@ -38,7 +40,33 @@
     padding: 24px;
 }
 
+.flora-titulo{
+    padding: 0 200px;
+    color: #4FB37C;
+    width: 25%;
+}
 
 .escola-div-conteudo{
     width: 35%;
+    align-items: center;
+
+}
+
+.texto-um{
+    font-size: 150%;
+    padding: 0 200px;
+    align-items: center;
+}
+
+.texto-dois{
+    font-size: 150%;
+    padding: 0 200px;
+    align-items: center;
+    
+}
+
+.texto-tres{
+    font-size: 150%;
+    padding: 0 200px;
+    align-items: center;
 }
