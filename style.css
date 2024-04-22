@@ -22,16 +22,9 @@
 .cabeçalho-lista-item{
     display: inline-block;
     padding: 0 16px;
-    font-size: 24px;
+    font-size: 50px;
 }
 
-
-.flora-imagem{
-    width: 30%;
-    padding: 0 200px
-    
-    
-}
 
 
 .flora{
@@ -42,10 +35,11 @@
 }
 
 .flora-titulo{
-    padding: 0 480px;
+    padding: 0 1100px;
     color: #4FB37C;
-    width: 100%;
-    ;
+    width: 200%;
+    font-size: 300%;
+;
 }
 
 .escola-div-conteudo{
@@ -55,32 +49,72 @@
 }
 
 .texto-um{
-    font-size: 150%;
+    font-size: 300%;
     padding: 0 200px;
     text-align: center;
 
 }
 
 .texto-dois{
-    font-size: 150%;
+    font-size: 300%;
     padding: 0 200px;
     text-align: center;
     
 }
 
 .texto-tres{
-    font-size: 150%;
+    font-size: 300%;
     padding: 0 200px;
     text-align: center;
 }
 
 .imagem-romã{
     width: 25%;
-    padding: 0 200px;
+    padding: 0px 950px 
+
 }
 
 .texto-da-fruta{
-    padding: 50px 250px;
-    font-size: 200%;
+    font-size: 300%;
     color: #4FB37C;
+    text-align: center;
+    margin: 50px;
 }
+
+.roma-texto{
+    font-size: 300%;
+    text-align: center;
+    padding: 0 200px;
+}
+
+.imagem-lichia{
+    width: 25%;
+    padding: 0px 950px 
+
+}
+
+.texto-da-lichia{
+    font-size: 300%;
+    color: #4FB37C;
+    text-align: center;
+    margin: 50px;
+    
+
+
+}
+
+
+.lichia-texto{
+    font-size: 300%;
+    padding: 0 200px;
+    text-align: center;
+
+}
+ 
+.wikipedia-imagem{
+    width: 5%;
+    padding: 0px 1200px
+}
+
+
+
